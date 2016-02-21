@@ -1,2 +1,2 @@
 # events-project
-# I am testing things to see how this goes
+# Extra changes to the thing
